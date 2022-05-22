@@ -1,9 +1,9 @@
 {
-	"ip":"donator3.falixnodes.net",
-	"port": 25710,
-	"name": "afkbot1",
+	"ip":"roleplayblkn.aternos.me",
+	"port": 37800,
+	"name": "HOLDER",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
-	"login-cmd":"/login (type_ur_pass_here)"
+	"register-cmd":"/register (Igracsamja)",
+	"login-cmd":"/login (Igracsamja)"
 }
